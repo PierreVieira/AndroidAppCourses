@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="tap_me">Clique</string>
+    <string name="score">Sua Pontuação: %1$d</string>
+    <string name="initial_score">Sua Pontuação: 0</string>
+    <string name="time_left">Tempo Restante: %1$d</string>
+    <string name="initial_time_left">Tempo Restante: 60</string>
+    <string name="game_over_message">Acabou o tempo! Sua pontuação: %1$d</string>
+    <string name="aboutMenu">Sobre</string>
+    <string name="aboutTitle">Time Fighter</string>
+    <string name="aboutMessage">Cirado por Pierre Vieira</string>
+</resources>

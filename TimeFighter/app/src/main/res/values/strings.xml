@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Time Fighter</string>
+    <string name="tap_me">TAP ME</string>
+    <string name="score">Your Score: %1$d</string>
+    <string name="initial_score">Your Score: 0</string>
+    <string name="time_left">Time Left: %1$d</string>
+    <string name="initial_time_left">Time Left: 60</string>
+    <string name="game_over_message">Times up! Your score was: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Time Fighter</string>
+    <string name="aboutMessage">Created by Pierre Vieira</string>
+</resources>
