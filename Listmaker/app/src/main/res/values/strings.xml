@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Listmaker</string>
+    <string name="remove_added_items">Remove added items</string>
+
+    <!-- Dialog -->
+    <string name="dialog_todo_title">What is the name of your list?</string>
+    <string name="dialog_task_title">What is the title of your task?</string>
+    <string name="positive_button_title">Create</string>
+    <string name="add_task_button">Add task button</string>
+    <string name="add_todo_button">Add todo button</string>
+</resources>
